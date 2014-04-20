@@ -1,5 +1,5 @@
 stik.boundary({
-  as: 'lazyPicture',
+  as: 'lazyImage',
   from: 'behavior',
   resolvable: true,
   to: function($window, $h){
